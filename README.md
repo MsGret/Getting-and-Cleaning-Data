@@ -13,4 +13,4 @@ This repository is a submission for Coursera *Getting and Cleaning Data* Course 
 
 `CodeBook.md` describes all the variables and summaries calculated.
 
-`tidyDataset` contains clean (tidy) data (result of analysis by `run_analysis.R`).
+`tidyDataset` contains tidy data as result of analysis by `run_analysis.R`.
